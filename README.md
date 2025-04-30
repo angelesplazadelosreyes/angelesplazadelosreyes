@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/angelesplazadelosreyes/angelesplazadelosreyes/main/banner_github.png" alt="Banner de Ángeles" style="width: 100%; border-radius: 12px;" />
+![Banner de Ángeles](https://raw.githubusercontent.com/angelesplazadelosreyes/angelesplazadelosreyes/main/banner_github.png)
+
 # ✨ ¡Hola! Soy María de los Ángeles Plaza de los Reyes Sanhueza ✨
 
 ![Profile views](https://komarev.com/ghpvc/?username=angelesplazadelosreyes)
