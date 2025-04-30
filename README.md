@@ -1,5 +1,4 @@
 ![Banner de Ángeles](https://raw.githubusercontent.com/angelesplazadelosreyes/angelesplazadelosreyes/main/banner_github.png)
-
 # ✨ ¡Hola! Soy María de los Ángeles Plaza de los Reyes Sanhueza ✨
 
 ![Profile views](https://komarev.com/ghpvc/?username=angelesplazadelosreyes)
